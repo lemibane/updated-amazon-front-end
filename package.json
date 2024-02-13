@@ -1,6 +1,6 @@
 {
   "homepage": "https://lemibane.github.io/updated-amazon-front-end",
-  "name": "using_npx",
+  "name": "amazonFrontEndClone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
     "react-icons": "^4.12.0",
     "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.20.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "react-spinners": "^0.13.8",
     "web-vitals": "^2.1.4"
   },
@@ -52,6 +52,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1",
-    "github-pages": "^3.0.2"
+    "github-pages": "^0.1.0"
   }
 }
