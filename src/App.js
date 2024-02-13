@@ -1,4 +1,5 @@
-import { react, useEffect, useState, useContext } from "react";
+import { useEffect, useState, useContext } from "react";
+import React from "react";
 import Routing from "./Router.jsx";
 import { auth } from "./Utility/firebase.js";
 import { DataContext } from "./Components/DataProvider/DataProvider.jsx";
