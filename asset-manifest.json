@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/lemibane/updated-amazon-front-end/static/css/main.5bbba016.css",
-    "main.js": "/lemibane/updated-amazon-front-end/static/js/main.57711bfd.js",
-    "static/media/10001.jpg": "/lemibane/updated-amazon-front-end/static/media/10001.2f5cc63b7e4512dd2789.jpg",
-    "static/media/10005.jpg": "/lemibane/updated-amazon-front-end/static/media/10005.4d36865f92d63b2519a7.jpg",
-    "static/media/10003.jpg": "/lemibane/updated-amazon-front-end/static/media/10003.16272162b96e28f935c4.jpg",
-    "static/media/10004.jpg": "/lemibane/updated-amazon-front-end/static/media/10004.805821d23a3f63566f17.jpg",
-    "static/media/10002.jpg": "/lemibane/updated-amazon-front-end/static/media/10002.225aaef918f59e5de14a.jpg",
-    "index.html": "/lemibane/updated-amazon-front-end/index.html",
-    "main.5bbba016.css.map": "/lemibane/updated-amazon-front-end/static/css/main.5bbba016.css.map",
-    "main.57711bfd.js.map": "/lemibane/updated-amazon-front-end/static/js/main.57711bfd.js.map"
+    "main.css": "/updated-amazon-front-end/static/css/main.5bbba016.css",
+    "main.js": "/updated-amazon-front-end/static/js/main.3c11d8b4.js",
+    "static/media/10001.jpg": "/updated-amazon-front-end/static/media/10001.2f5cc63b7e4512dd2789.jpg",
+    "static/media/10005.jpg": "/updated-amazon-front-end/static/media/10005.4d36865f92d63b2519a7.jpg",
+    "static/media/10003.jpg": "/updated-amazon-front-end/static/media/10003.16272162b96e28f935c4.jpg",
+    "static/media/10004.jpg": "/updated-amazon-front-end/static/media/10004.805821d23a3f63566f17.jpg",
+    "static/media/10002.jpg": "/updated-amazon-front-end/static/media/10002.225aaef918f59e5de14a.jpg",
+    "index.html": "/updated-amazon-front-end/index.html",
+    "main.5bbba016.css.map": "/updated-amazon-front-end/static/css/main.5bbba016.css.map",
+    "main.3c11d8b4.js.map": "/updated-amazon-front-end/static/js/main.3c11d8b4.js.map"
   },
   "entrypoints": [
     "static/css/main.5bbba016.css",
-    "static/js/main.57711bfd.js"
+    "static/js/main.3c11d8b4.js"
   ]
 }
